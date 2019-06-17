@@ -1,0 +1,4 @@
+#Sun May 05 14:33:06 IST 2019
+base.0=C\:\\Users\\Shobit\\AndroidStudioProjects\\Aniket Face Recognition\\facerecognition\\build\\intermediates\\transforms\\dexMerger\\debug\\7
+path.0=classes.dex
+renamed.0=classes.dex

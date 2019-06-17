@@ -1,0 +1,278 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Shobit\AndroidStudioProjects\Aniket Face Recognition\facerecognition\src\main\AndroidManifest.xml:2:1-76:12
+INJECTED from C:\Users\Shobit\AndroidStudioProjects\Aniket Face Recognition\facerecognition\src\main\AndroidManifest.xml:2:1-76:12
+INJECTED from C:\Users\Shobit\AndroidStudioProjects\Aniket Face Recognition\facerecognition\src\main\AndroidManifest.xml:2:1-76:12
+INJECTED from C:\Users\Shobit\AndroidStudioProjects\Aniket Face Recognition\facerecognition\src\main\AndroidManifest.xml:2:1-76:12
+MERGED from [:openCVLibrary2410] C:\Users\Shobit\AndroidStudioProjects\Aniket Face Recognition\openCVLibrary2410\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.1] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.1.aar\31775c6155e863cdd8dc3bbb6932c257\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:28.0.0-alpha3] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\design-28.0.0-alpha3.aar\50d856ec3ee18a2be52e055fdff32e83\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha3] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-alpha3.aar\70a8066cc5b6738e9061d81f4826306d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:28.0.0-alpha3] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0-alpha3.aar\cf86cf1dd1b476c6aed6ff056799dc75\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0-alpha3] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-alpha3.aar\d538319e9fc64cbfb6eb842d2911b3d4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha3] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-alpha3.aar\220c895cdd0346ccf11dc093eb2e9a8e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0-alpha3] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0-alpha3.aar\4905ceff20543c3ded7e0e477101af0a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-alpha3.aar\7d0403fc2a76b63e2339db3c55c3166e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-alpha3.aar\fcfe83626fa09ee33cb17ca2d621b98d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha3] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-alpha3.aar\3c79e75f94b92af46aa14b42bec4eb31\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0-alpha3] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0-alpha3.aar\f565b2f3ab711e71f899bb7b49894cbf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0-alpha3] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\transition-28.0.0-alpha3.aar\2060572f7d4fde2bd1e319a97dd026c3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-alpha3] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-alpha3.aar\d24ac67101609dd73ebf5fd966eee170\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0-alpha3] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-alpha3.aar\1dc0327c46768747c005a0c5f33c654b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-alpha3.aar\9cb4a1497bdfec6efe55936317a283fe\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-alpha3.aar\dcf04578c97ed88048169cb29834bdab\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-alpha3.aar\60699a6d5d2377fd8177f388067ce045\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0-alpha3] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-alpha3.aar\7e3096036d0f403f73e4d9be5b83b4f7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-alpha3.aar\aa28030bf7024e3e502f4c6aa157c185\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-alpha3.aar\aaf5d9277ff8281e8f815b257d85dbbc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha3.aar\6bde154f0aafbde625b0b5370d93ff60\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-alpha3.aar\b0cf01c53ce0c2227d72b218ec9338d7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0-alpha3] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0-alpha3.aar\81f0b5d5269bb07c6ae27b341f79348a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\24c186b62962371e409dc407a2e676c9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-alpha3.aar\a04e9c4e55ccf4e538a2cf71108cbdca\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:documentfile:28.0.0-alpha3] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-alpha3.aar\7fc0927da1d6af0eccd9ff9e3bd91307\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-alpha3.aar\b5408e0b6b9893008f0e4c6959f7044c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0-alpha3] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\print-28.0.0-alpha3.aar\936ed85c66163bdd0b9ab1e37beade91\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\22b050dac4a8d1ca4442a84230094707\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0-alpha3] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-alpha3.aar\db7fcb12b64fa481ec9a4a4cee82931b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\fac73e493e0c29df09c7976693ba84df\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\dbc9987cec79f50a7bb6bdea597d071f\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Shobit\AndroidStudioProjects\Aniket Face Recognition\facerecognition\src\main\AndroidManifest.xml:2:1-76:12
+INJECTED from C:\Users\Shobit\AndroidStudioProjects\Aniket Face Recognition\facerecognition\src\main\AndroidManifest.xml:2:1-76:12
+INJECTED from C:\Users\Shobit\AndroidStudioProjects\Aniket Face Recognition\facerecognition\src\main\AndroidManifest.xml:2:1-76:12
+	package
+		ADDED from C:\Users\Shobit\AndroidStudioProjects\Aniket Face Recognition\facerecognition\src\main\AndroidManifest.xml:3:5-49
+		INJECTED from C:\Users\Shobit\AndroidStudioProjects\Aniket Face Recognition\facerecognition\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Shobit\AndroidStudioProjects\Aniket Face Recognition\facerecognition\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Shobit\AndroidStudioProjects\Aniket Face Recognition\facerecognition\src\main\AndroidManifest.xml:6:5-30
+		INJECTED from C:\Users\Shobit\AndroidStudioProjects\Aniket Face Recognition\facerecognition\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Shobit\AndroidStudioProjects\Aniket Face Recognition\facerecognition\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Shobit\AndroidStudioProjects\Aniket Face Recognition\facerecognition\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\Shobit\AndroidStudioProjects\Aniket Face Recognition\facerecognition\src\main\AndroidManifest.xml:5:5-29
+		INJECTED from C:\Users\Shobit\AndroidStudioProjects\Aniket Face Recognition\facerecognition\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Shobit\AndroidStudioProjects\Aniket Face Recognition\facerecognition\src\main\AndroidManifest.xml
+	android:installLocation
+		ADDED from C:\Users\Shobit\AndroidStudioProjects\Aniket Face Recognition\facerecognition\src\main\AndroidManifest.xml:4:5-35
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Shobit\AndroidStudioProjects\Aniket Face Recognition\facerecognition\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from C:\Users\Shobit\AndroidStudioProjects\Aniket Face Recognition\facerecognition\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\Shobit\AndroidStudioProjects\Aniket Face Recognition\facerecognition\src\main\AndroidManifest.xml:9:5-68
+	android:name
+		ADDED from C:\Users\Shobit\AndroidStudioProjects\Aniket Face Recognition\facerecognition\src\main\AndroidManifest.xml:9:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\Shobit\AndroidStudioProjects\Aniket Face Recognition\facerecognition\src\main\AndroidManifest.xml:10:5-74
+	android:name
+		ADDED from C:\Users\Shobit\AndroidStudioProjects\Aniket Face Recognition\facerecognition\src\main\AndroidManifest.xml:10:22-71
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\Shobit\AndroidStudioProjects\Aniket Face Recognition\facerecognition\src\main\AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from C:\Users\Shobit\AndroidStudioProjects\Aniket Face Recognition\facerecognition\src\main\AndroidManifest.xml:11:22-62
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Shobit\AndroidStudioProjects\Aniket Face Recognition\facerecognition\src\main\AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from C:\Users\Shobit\AndroidStudioProjects\Aniket Face Recognition\facerecognition\src\main\AndroidManifest.xml:13:22-77
+uses-permission#android.permission.ACCESS_FINE_LOCTION
+ADDED from C:\Users\Shobit\AndroidStudioProjects\Aniket Face Recognition\facerecognition\src\main\AndroidManifest.xml:14:5-78
+	android:name
+		ADDED from C:\Users\Shobit\AndroidStudioProjects\Aniket Face Recognition\facerecognition\src\main\AndroidManifest.xml:14:22-75
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\Shobit\AndroidStudioProjects\Aniket Face Recognition\facerecognition\src\main\AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from C:\Users\Shobit\AndroidStudioProjects\Aniket Face Recognition\facerecognition\src\main\AndroidManifest.xml:15:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\Shobit\AndroidStudioProjects\Aniket Face Recognition\facerecognition\src\main\AndroidManifest.xml:16:5-75
+	android:name
+		ADDED from C:\Users\Shobit\AndroidStudioProjects\Aniket Face Recognition\facerecognition\src\main\AndroidManifest.xml:16:22-72
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Shobit\AndroidStudioProjects\Aniket Face Recognition\facerecognition\src\main\AndroidManifest.xml:17:5-79
+	android:name
+		ADDED from C:\Users\Shobit\AndroidStudioProjects\Aniket Face Recognition\facerecognition\src\main\AndroidManifest.xml:17:22-76
+supports-screens
+ADDED from C:\Users\Shobit\AndroidStudioProjects\Aniket Face Recognition\facerecognition\src\main\AndroidManifest.xml:19:5-24:39
+	android:largeScreens
+		ADDED from C:\Users\Shobit\AndroidStudioProjects\Aniket Face Recognition\facerecognition\src\main\AndroidManifest.xml:21:9-36
+	android:smallScreens
+		ADDED from C:\Users\Shobit\AndroidStudioProjects\Aniket Face Recognition\facerecognition\src\main\AndroidManifest.xml:24:9-36
+	android:normalScreens
+		ADDED from C:\Users\Shobit\AndroidStudioProjects\Aniket Face Recognition\facerecognition\src\main\AndroidManifest.xml:22:9-37
+	android:resizeable
+		ADDED from C:\Users\Shobit\AndroidStudioProjects\Aniket Face Recognition\facerecognition\src\main\AndroidManifest.xml:23:9-34
+	android:anyDensity
+		ADDED from C:\Users\Shobit\AndroidStudioProjects\Aniket Face Recognition\facerecognition\src\main\AndroidManifest.xml:20:9-34
+uses-feature#android.hardware.camera
+ADDED from C:\Users\Shobit\AndroidStudioProjects\Aniket Face Recognition\facerecognition\src\main\AndroidManifest.xml:28:5-30:36
+	android:required
+		ADDED from C:\Users\Shobit\AndroidStudioProjects\Aniket Face Recognition\facerecognition\src\main\AndroidManifest.xml:30:9-33
+	android:name
+		ADDED from C:\Users\Shobit\AndroidStudioProjects\Aniket Face Recognition\facerecognition\src\main\AndroidManifest.xml:29:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\Users\Shobit\AndroidStudioProjects\Aniket Face Recognition\facerecognition\src\main\AndroidManifest.xml:31:5-33:36
+	android:required
+		ADDED from C:\Users\Shobit\AndroidStudioProjects\Aniket Face Recognition\facerecognition\src\main\AndroidManifest.xml:33:9-33
+	android:name
+		ADDED from C:\Users\Shobit\AndroidStudioProjects\Aniket Face Recognition\facerecognition\src\main\AndroidManifest.xml:32:9-57
+uses-feature#android.hardware.camera.front
+ADDED from C:\Users\Shobit\AndroidStudioProjects\Aniket Face Recognition\facerecognition\src\main\AndroidManifest.xml:34:5-36:36
+	android:required
+		ADDED from C:\Users\Shobit\AndroidStudioProjects\Aniket Face Recognition\facerecognition\src\main\AndroidManifest.xml:36:9-33
+	android:name
+		ADDED from C:\Users\Shobit\AndroidStudioProjects\Aniket Face Recognition\facerecognition\src\main\AndroidManifest.xml:35:9-53
+uses-feature#android.hardware.camera.front.autofocus
+ADDED from C:\Users\Shobit\AndroidStudioProjects\Aniket Face Recognition\facerecognition\src\main\AndroidManifest.xml:37:5-39:36
+	android:required
+		ADDED from C:\Users\Shobit\AndroidStudioProjects\Aniket Face Recognition\facerecognition\src\main\AndroidManifest.xml:39:9-33
+	android:name
+		ADDED from C:\Users\Shobit\AndroidStudioProjects\Aniket Face Recognition\facerecognition\src\main\AndroidManifest.xml:38:9-63
+application
+ADDED from C:\Users\Shobit\AndroidStudioProjects\Aniket Face Recognition\facerecognition\src\main\AndroidManifest.xml:44:5-74:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.1] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.1.aar\31775c6155e863cdd8dc3bbb6932c257\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.1] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.1.aar\31775c6155e863cdd8dc3bbb6932c257\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:28.0.0-alpha3] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\design-28.0.0-alpha3.aar\50d856ec3ee18a2be52e055fdff32e83\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0-alpha3] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\design-28.0.0-alpha3.aar\50d856ec3ee18a2be52e055fdff32e83\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha3.aar\6bde154f0aafbde625b0b5370d93ff60\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha3.aar\6bde154f0aafbde625b0b5370d93ff60\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-alpha3.aar\a04e9c4e55ccf4e538a2cf71108cbdca\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-alpha3.aar\a04e9c4e55ccf4e538a2cf71108cbdca\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0-alpha3] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha3.aar\6bde154f0aafbde625b0b5370d93ff60\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from C:\Users\Shobit\AndroidStudioProjects\Aniket Face Recognition\facerecognition\src\main\AndroidManifest.xml:46:9-41
+	android:icon
+		ADDED from C:\Users\Shobit\AndroidStudioProjects\Aniket Face Recognition\facerecognition\src\main\AndroidManifest.xml:45:9-43
+	android:theme
+		ADDED from C:\Users\Shobit\AndroidStudioProjects\Aniket Face Recognition\facerecognition\src\main\AndroidManifest.xml:47:9-40
+activity#cultoftheunicorn.marvel.SplashActivity
+ADDED from C:\Users\Shobit\AndroidStudioProjects\Aniket Face Recognition\facerecognition\src\main\AndroidManifest.xml:48:9-54:20
+	android:name
+		ADDED from C:\Users\Shobit\AndroidStudioProjects\Aniket Face Recognition\facerecognition\src\main\AndroidManifest.xml:48:19-72
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Shobit\AndroidStudioProjects\Aniket Face Recognition\facerecognition\src\main\AndroidManifest.xml:49:13-53:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Shobit\AndroidStudioProjects\Aniket Face Recognition\facerecognition\src\main\AndroidManifest.xml:50:17-69
+	android:name
+		ADDED from C:\Users\Shobit\AndroidStudioProjects\Aniket Face Recognition\facerecognition\src\main\AndroidManifest.xml:50:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Shobit\AndroidStudioProjects\Aniket Face Recognition\facerecognition\src\main\AndroidManifest.xml:52:17-77
+	android:name
+		ADDED from C:\Users\Shobit\AndroidStudioProjects\Aniket Face Recognition\facerecognition\src\main\AndroidManifest.xml:52:27-74
+activity#cultoftheunicorn.marvel.BluetoothActivity
+ADDED from C:\Users\Shobit\AndroidStudioProjects\Aniket Face Recognition\facerecognition\src\main\AndroidManifest.xml:55:9-78
+	android:name
+		ADDED from C:\Users\Shobit\AndroidStudioProjects\Aniket Face Recognition\facerecognition\src\main\AndroidManifest.xml:55:19-75
+activity#cultoftheunicorn.marvel.MainActivity
+ADDED from C:\Users\Shobit\AndroidStudioProjects\Aniket Face Recognition\facerecognition\src\main\AndroidManifest.xml:56:9-60:20
+	android:label
+		ADDED from C:\Users\Shobit\AndroidStudioProjects\Aniket Face Recognition\facerecognition\src\main\AndroidManifest.xml:58:13-35
+	android:name
+		ADDED from C:\Users\Shobit\AndroidStudioProjects\Aniket Face Recognition\facerecognition\src\main\AndroidManifest.xml:57:13-64
+activity#cultoftheunicorn.marvel.Recognize
+ADDED from C:\Users\Shobit\AndroidStudioProjects\Aniket Face Recognition\facerecognition\src\main\AndroidManifest.xml:61:9-63:53
+	android:screenOrientation
+		ADDED from C:\Users\Shobit\AndroidStudioProjects\Aniket Face Recognition\facerecognition\src\main\AndroidManifest.xml:63:13-50
+	android:name
+		ADDED from C:\Users\Shobit\AndroidStudioProjects\Aniket Face Recognition\facerecognition\src\main\AndroidManifest.xml:62:13-61
+activity#cultoftheunicorn.marvel.Training
+ADDED from C:\Users\Shobit\AndroidStudioProjects\Aniket Face Recognition\facerecognition\src\main\AndroidManifest.xml:64:9-67:53
+	android:screenOrientation
+		ADDED from C:\Users\Shobit\AndroidStudioProjects\Aniket Face Recognition\facerecognition\src\main\AndroidManifest.xml:67:13-50
+	android:label
+		ADDED from C:\Users\Shobit\AndroidStudioProjects\Aniket Face Recognition\facerecognition\src\main\AndroidManifest.xml:66:13-37
+	android:name
+		ADDED from C:\Users\Shobit\AndroidStudioProjects\Aniket Face Recognition\facerecognition\src\main\AndroidManifest.xml:65:13-60
+activity#cultoftheunicorn.marvel.NameActivity
+ADDED from C:\Users\Shobit\AndroidStudioProjects\Aniket Face Recognition\facerecognition\src\main\AndroidManifest.xml:68:9-70:59
+	android:windowSoftInputMode
+		ADDED from C:\Users\Shobit\AndroidStudioProjects\Aniket Face Recognition\facerecognition\src\main\AndroidManifest.xml:70:13-56
+	android:name
+		ADDED from C:\Users\Shobit\AndroidStudioProjects\Aniket Face Recognition\facerecognition\src\main\AndroidManifest.xml:69:13-64
+activity#cultoftheunicorn.marvel.ReviewResults
+ADDED from C:\Users\Shobit\AndroidStudioProjects\Aniket Face Recognition\facerecognition\src\main\AndroidManifest.xml:71:9-73:47
+	android:label
+		ADDED from C:\Users\Shobit\AndroidStudioProjects\Aniket Face Recognition\facerecognition\src\main\AndroidManifest.xml:73:13-44
+	android:name
+		ADDED from C:\Users\Shobit\AndroidStudioProjects\Aniket Face Recognition\facerecognition\src\main\AndroidManifest.xml:72:13-65
+uses-sdk
+INJECTED from C:\Users\Shobit\AndroidStudioProjects\Aniket Face Recognition\facerecognition\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Shobit\AndroidStudioProjects\Aniket Face Recognition\facerecognition\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Shobit\AndroidStudioProjects\Aniket Face Recognition\facerecognition\src\main\AndroidManifest.xml
+MERGED from [:openCVLibrary2410] C:\Users\Shobit\AndroidStudioProjects\Aniket Face Recognition\openCVLibrary2410\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:40
+MERGED from [:openCVLibrary2410] C:\Users\Shobit\AndroidStudioProjects\Aniket Face Recognition\openCVLibrary2410\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:40
+MERGED from [com.android.support.constraint:constraint-layout:1.1.1] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.1.aar\31775c6155e863cdd8dc3bbb6932c257\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.1] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.1.aar\31775c6155e863cdd8dc3bbb6932c257\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:28.0.0-alpha3] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\design-28.0.0-alpha3.aar\50d856ec3ee18a2be52e055fdff32e83\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0-alpha3] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\design-28.0.0-alpha3.aar\50d856ec3ee18a2be52e055fdff32e83\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha3] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-alpha3.aar\70a8066cc5b6738e9061d81f4826306d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha3] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-alpha3.aar\70a8066cc5b6738e9061d81f4826306d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0-alpha3] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0-alpha3.aar\cf86cf1dd1b476c6aed6ff056799dc75\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0-alpha3] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0-alpha3.aar\cf86cf1dd1b476c6aed6ff056799dc75\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-alpha3] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-alpha3.aar\d538319e9fc64cbfb6eb842d2911b3d4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-alpha3] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-alpha3.aar\d538319e9fc64cbfb6eb842d2911b3d4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha3] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-alpha3.aar\220c895cdd0346ccf11dc093eb2e9a8e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha3] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-alpha3.aar\220c895cdd0346ccf11dc093eb2e9a8e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0-alpha3] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0-alpha3.aar\4905ceff20543c3ded7e0e477101af0a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0-alpha3] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0-alpha3.aar\4905ceff20543c3ded7e0e477101af0a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-alpha3.aar\7d0403fc2a76b63e2339db3c55c3166e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-alpha3.aar\7d0403fc2a76b63e2339db3c55c3166e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-alpha3.aar\fcfe83626fa09ee33cb17ca2d621b98d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-alpha3.aar\fcfe83626fa09ee33cb17ca2d621b98d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha3] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-alpha3.aar\3c79e75f94b92af46aa14b42bec4eb31\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha3] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-alpha3.aar\3c79e75f94b92af46aa14b42bec4eb31\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0-alpha3] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0-alpha3.aar\f565b2f3ab711e71f899bb7b49894cbf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0-alpha3] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0-alpha3.aar\f565b2f3ab711e71f899bb7b49894cbf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0-alpha3] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\transition-28.0.0-alpha3.aar\2060572f7d4fde2bd1e319a97dd026c3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0-alpha3] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\transition-28.0.0-alpha3.aar\2060572f7d4fde2bd1e319a97dd026c3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha3] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-alpha3.aar\d24ac67101609dd73ebf5fd966eee170\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha3] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-alpha3.aar\d24ac67101609dd73ebf5fd966eee170\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha3] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-alpha3.aar\1dc0327c46768747c005a0c5f33c654b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha3] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-alpha3.aar\1dc0327c46768747c005a0c5f33c654b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-alpha3.aar\9cb4a1497bdfec6efe55936317a283fe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-alpha3.aar\9cb4a1497bdfec6efe55936317a283fe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-alpha3.aar\dcf04578c97ed88048169cb29834bdab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-alpha3.aar\dcf04578c97ed88048169cb29834bdab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-alpha3.aar\60699a6d5d2377fd8177f388067ce045\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-alpha3.aar\60699a6d5d2377fd8177f388067ce045\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha3] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-alpha3.aar\7e3096036d0f403f73e4d9be5b83b4f7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha3] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-alpha3.aar\7e3096036d0f403f73e4d9be5b83b4f7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-alpha3.aar\aa28030bf7024e3e502f4c6aa157c185\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-alpha3.aar\aa28030bf7024e3e502f4c6aa157c185\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-alpha3.aar\aaf5d9277ff8281e8f815b257d85dbbc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-alpha3.aar\aaf5d9277ff8281e8f815b257d85dbbc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha3.aar\6bde154f0aafbde625b0b5370d93ff60\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha3.aar\6bde154f0aafbde625b0b5370d93ff60\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-alpha3.aar\b0cf01c53ce0c2227d72b218ec9338d7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-alpha3.aar\b0cf01c53ce0c2227d72b218ec9338d7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0-alpha3] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0-alpha3.aar\81f0b5d5269bb07c6ae27b341f79348a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0-alpha3] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0-alpha3.aar\81f0b5d5269bb07c6ae27b341f79348a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\24c186b62962371e409dc407a2e676c9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\24c186b62962371e409dc407a2e676c9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-alpha3.aar\a04e9c4e55ccf4e538a2cf71108cbdca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-alpha3.aar\a04e9c4e55ccf4e538a2cf71108cbdca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha3] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-alpha3.aar\7fc0927da1d6af0eccd9ff9e3bd91307\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha3] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-alpha3.aar\7fc0927da1d6af0eccd9ff9e3bd91307\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-alpha3.aar\b5408e0b6b9893008f0e4c6959f7044c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-alpha3.aar\b5408e0b6b9893008f0e4c6959f7044c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-alpha3] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\print-28.0.0-alpha3.aar\936ed85c66163bdd0b9ab1e37beade91\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-alpha3] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\print-28.0.0-alpha3.aar\936ed85c66163bdd0b9ab1e37beade91\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\22b050dac4a8d1ca4442a84230094707\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\22b050dac4a8d1ca4442a84230094707\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha3] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-alpha3.aar\db7fcb12b64fa481ec9a4a4cee82931b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha3] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-alpha3.aar\db7fcb12b64fa481ec9a4a4cee82931b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\fac73e493e0c29df09c7976693ba84df\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\fac73e493e0c29df09c7976693ba84df\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\dbc9987cec79f50a7bb6bdea597d071f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Shobit\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\dbc9987cec79f50a7bb6bdea597d071f\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Shobit\AndroidStudioProjects\Aniket Face Recognition\facerecognition\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Shobit\AndroidStudioProjects\Aniket Face Recognition\facerecognition\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Shobit\AndroidStudioProjects\Aniket Face Recognition\facerecognition\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Shobit\AndroidStudioProjects\Aniket Face Recognition\facerecognition\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Shobit\AndroidStudioProjects\Aniket Face Recognition\facerecognition\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Shobit\AndroidStudioProjects\Aniket Face Recognition\facerecognition\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Shobit\AndroidStudioProjects\Aniket Face Recognition\facerecognition\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Shobit\AndroidStudioProjects\Aniket Face Recognition\facerecognition\src\main\AndroidManifest.xml
