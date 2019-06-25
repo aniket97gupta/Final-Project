@@ -1,5 +1,7 @@
 # MOBILE APPLICATION ACCESS CONTROL
 ### The face is one of the easiest ways to distinguish the individual identity of each other. Face recognition is a personal identification system that uses personal characteristics of a person to identify the person's identity.The area of this project face detection system with face recognition is Image processing. After the face is recognized as a valid user, the application will send a Bluetooth signal to the circuit and the door will unlock.
+## THINGS YOU NEED
+#### smartphone,arduino uno board with DIP ATmega328, HM-10 Bluetooth module ,cables  
 ## SCREENSHOTS
 ![Screenshot_2019-06-14-14-05-35-106_com miui gallery](https://user-images.githubusercontent.com/50113128/60082838-88d39b80-96bf-11e9-9375-50015bbfd3b8.png)
 ![Screenshot_2019-06-14-14-05-56-944_com miui gallery](https://user-images.githubusercontent.com/50113128/60082956-c7695600-96bf-11e9-9f27-f299356edbcb.png)
