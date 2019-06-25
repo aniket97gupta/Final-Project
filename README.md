@@ -8,3 +8,16 @@
 ![Screenshot_2019-06-14-14-06-58-196_com miui gallery](https://user-images.githubusercontent.com/50113128/60082961-c801ec80-96bf-11e9-8060-a271de770eba.png)
 ![Screenshot_2019-06-14-14-07-13-391_com miui gallery](https://user-images.githubusercontent.com/50113128/60082962-c89a8300-96bf-11e9-888b-f0404822296b.png)
 ![Screenshot_2019-06-14-14-07-22-467_com miui gallery](https://user-images.githubusercontent.com/50113128/60082963-c89a8300-96bf-11e9-8ac9-b13b8fb723ef.png)
+## USAGE
+#### Clone this repository
+#### Open project in android studio
+#### Optional: Configure firebase if required. Check out comments in ReviewResults activity
+#### Compile, install the Apk
+#### Go to training, set an ID and capture a face to train. Repeat this a couple of times with different people and IDs
+#### Go to recognition, click scan and try to capture everyone in the video stream. The detected faces will be recognized and shown.
+#### Once done, stop scanning and click submit to review capture results. It will send a bluetooth siggnal to the arduino board and the led on it will turn on.
+## KNOWN ISSUES AND TODO
+#### Face recognition is not accurate. Far from it
+#### Recognition model gets created each time "Recognize" tab is clicked. Slows down as number of training images increase.
+## DIRECTORIES
+#### /sdcard/facerecogOCV - Training images
